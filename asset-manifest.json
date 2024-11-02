@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.bfcc84e0.css",
-    "main.js": "/static/js/main.d8313bff.js",
+    "main.js": "/static/js/main.a22d3cba.js",
     "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
-    "static/media/project-4.png": "/static/media/project-4.5b1367ed73a0d6354aa7.png",
     "static/media/project-2.png": "/static/media/project-2.f578e93de9e9a9cfc0b5.png",
     "static/media/project-6.png": "/static/media/project-6.b707697e24ecaefc00d7.png",
     "static/media/david.png": "/static/media/david.8df80e1845e56e2f97a4.png",
     "static/media/goal-keeper-app.png": "/static/media/goal-keeper-app.f65700cd2ad1bc93e036.png",
     "static/media/project-1.png": "/static/media/project-1.0ade09d1e8f03f9a0eef.png",
     "static/media/project-5.png": "/static/media/project-5.e0b99d4f329f297fd986.png",
+    "static/media/gitbot.png": "/static/media/gitbot.c36bc042094802262cca.png",
     "static/media/logo.png": "/static/media/logo.5db6d84a216f28d2ec9a.png",
     "index.html": "/index.html",
     "main.bfcc84e0.css.map": "/static/css/main.bfcc84e0.css.map",
-    "main.d8313bff.js.map": "/static/js/main.d8313bff.js.map",
+    "main.a22d3cba.js.map": "/static/js/main.a22d3cba.js.map",
     "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bfcc84e0.css",
-    "static/js/main.d8313bff.js"
+    "static/js/main.a22d3cba.js"
   ]
 }
